@@ -16,4 +16,4 @@ And
 
 ### `presentation`
 
-> [https://docs.google.com/presentation/d/1LWP3NV2Af6KE8CI14YhT4IWrYdXeSmdOEDyGoroJIHA/edit?usp=sharing](Link)
+> [https://docs.google.com/presentation/d/1LWP3NV2Af6KE8CI14YhT4IWrYdXeSmdOEDyGoroJIHA/edit?usp=sharing](https://docs.google.com/presentation/d/1LWP3NV2Af6KE8CI14YhT4IWrYdXeSmdOEDyGoroJIHA/edit?usp=sharing)
